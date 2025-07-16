@@ -46,14 +46,16 @@ This leads to **efficient storage** and **faster transmission** of text data.
 ---
 
 ### 📥 **Clone the Repository**
-```bash
+```
 git clone https://github.com/<your-username>/HuffmanEncoder.git
 cd HuffmanEncoder
+```
 🛠 Build and Run
-bash
+```
 Copy code
 g++ -std=c++11 src/huffman.cpp -o huffman
 ./huffman
+```
 🖥️ Usage
 When you run the program, it asks for your preferred input mode:
 
@@ -95,21 +97,31 @@ b: 01
 ' ': 10
 c: 110
 d: 111
+
 📂 Project Structure
-bash
+
+```
 Copy code
 HuffmanEncoder/
 ├── src/
 │   └── huffman.cpp        # Main program
 ├── sample_input.txt       # Example input file
 └── README.md              # Project documentation
+```
+
 💡 Future Improvements
+
 ✅ Add encoding and decoding support (compress and decompress files).
+
 ✅ Provide a CLI utility for compression.
+
 ✅ Display compression ratio statistics.
+
 ✅ Build a simple GUI version using Qt or Python Tkinter.
 
+
 📜 License
+
 This project is licensed under the MIT License.
 
 🤝 Contributing
