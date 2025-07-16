@@ -325,14 +325,12 @@ Run with file input option to see character frequencies and their corresponding 
 3. **🔧 Code Improvements** - Optimize existing code
 4. **📚 Documentation** - Improve documentation and examples
 
-### 🔄 Development Workflow
-
 ```
-graph LR
-A[Fork] --> B[Create Branch]
-B --> C[Make Changes]
-C --> D[Test]
-D --> E[Submit PR]
+Fork this repository 
+Create your feature branch (git checkout -b feature/awesome-feature) 🌱
+Commit your changes (git commit -m 'Add awesome feature') 💻
+Push to the branch (git push origin feature/awesome-feature) 🚀
+Open a Pull Request 📬
 ```
 ```
 style A fill:#e3f2fd
