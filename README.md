@@ -21,6 +21,7 @@
 - [💻 Usage](#-usage)
 - [🏗️ Code Structure](#️-code-structure)
 - [📊 Examples](#-examples)
+- [💡 Future Improvements](#-future-improvements)
 - [🔍 Technical Details](#-technical-details)
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
@@ -268,6 +269,17 @@ Create a file `test.txt`:
 Create a file `test.txt`:
 
 Run with file input option to see character frequencies and their corresponding Huffman codes.
+
+# 💡 Future Improvements
+
+✅ Add encoding and decoding support (compress and decompress files).
+
+✅ Provide a CLI utility for file compression and decompression.
+
+✅ Display compression ratio statistics after encoding.
+
+✅ Build a simple GUI version using Qt (C++) or Tkinter (Python).
+
 
 ## 🔍 Technical Details
 
